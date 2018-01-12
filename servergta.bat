@@ -1,0 +1,1 @@
+start D:\fivemserver\run.cmd +exec server.cfg

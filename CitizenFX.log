@@ -1,0 +1,246 @@
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        63] ^3Couldn't find resource sessionmanager.^7
+[        78] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        47] ^3Couldn't find resource sessionmanager.^7
+[        47] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[    407157] Initializing Mono
+[    407157] Initializing Mono completed
+[    407157] Hello!
+[    407203] ^3Couldn't find resource sessionmanager.^7
+[    407203] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[    521797] Initializing Mono
+[    521797] Initializing Mono completed
+[    521797] Hello!
+[    521844] ^3Couldn't find resource sessionmanager.^7
+[    521844] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[    679297] Initializing Mono
+[    679313] Initializing Mono completed
+[    679313] Hello!
+[    679344] ^3Couldn't find resource sessionmanager.^7
+[    679344] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[    779375] Initializing Mono
+[    779375] Initializing Mono completed
+[    779375] Hello!
+[    779422] ^3Couldn't find resource sessionmanager.^7
+[    779422] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[    822297] Initializing Mono
+[    822313] Initializing Mono completed
+[    822313] Hello!
+[    822344] ^3Couldn't find resource sessionmanager.^7
+[    822360] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[    899532] Initializing Mono
+[    899532] Initializing Mono completed
+[    899547] Hello!
+[    899594] ^3Couldn't find resource sessionmanager.^7
+[    899594] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[    981922] Initializing Mono
+[    981922] Initializing Mono completed
+[    981922] Hello!
+[    981969] ^3Couldn't find resource sessionmanager.^7
+[    981969] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[        47] ^3Couldn't find resource sessionmanager.^7
+[        47] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[        15] Hello!
+[        47] ^3Couldn't find resource sessionmanager.^7
+[       781] ^3Couldn't find resource mapmanager.^7
+[       781] ^3Couldn't find resource chat.^7
+[       781] ^3Couldn't find resource spawnmanager.^7
+[       781] ^3Couldn't find resource sessionmanager.^7
+[       781] ^3Couldn't find resource fivem.^7
+[       781] ^3Couldn't find resource hardcap.^7
+[       781] ^3Couldn't find resource rconlog.^7
+[       781] ^3Couldn't find resource scoreboard.^7
+[       781] ^3Couldn't find resource playernames.^7
+[       781] Authenticating server license key...
+[      2078] Server license key authentication succeeded. Welcome!
+[      2203] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      2218] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[        16] Hello!
+[        47] ^3Couldn't find resource sessionmanager.^7
+[        47] ^3Couldn't find resource mapmanager.^7
+[        47] ^3Couldn't find resource chat.^7
+[        47] ^3Couldn't find resource spawnmanager.^7
+[        47] ^3Couldn't find resource sessionmanager.^7
+[        47] ^3Couldn't find resource fivem.^7
+[        47] ^3Couldn't find resource hardcap.^7
+[        47] ^3Couldn't find resource rconlog.^7
+[        47] ^3Couldn't find resource scoreboard.^7
+[        47] ^3Couldn't find resource playernames.^7
+[        47] Authenticating server license key...
+[      1219] Server license key authentication succeeded. Welcome!
+[      1360] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      1360] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        47] ^3Couldn't find resource sessionmanager.^7
+[        63] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[         0] Hello!
+[        47] ^3Couldn't find resource sessionmanager.^7
+[        47] ^3Couldn't find resource mapmanager.^7
+[        47] ^3Couldn't find resource chat.^7
+[        47] ^3Couldn't find resource spawnmanager.^7
+[        47] ^3Couldn't find resource sessionmanager.^7
+[        47] ^3Couldn't find resource fivem.^7
+[        47] ^3Couldn't find resource hardcap.^7
+[        47] ^3Couldn't find resource rconlog.^7
+[        47] ^3Couldn't find resource scoreboard.^7
+[        47] ^3Couldn't find resource playernames.^7
+[        47] Authenticating server license key...
+[      1484] Server license key authentication succeeded. Welcome!
+[      1625] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      1625] Sending heartbeat to live-internal.fivem.net:30110
+[    181656] Sending heartbeat to live-internal.fivem.net:30110
+[    199313] Sending heartbeat to live-internal.fivem.net:30110
+[    379313] Sending heartbeat to live-internal.fivem.net:30110
+[    456031] Sending heartbeat to live-internal.fivem.net:30110
+[    582922] Sending heartbeat to live-internal.fivem.net:30110
+[    755672] Sending heartbeat to live-internal.fivem.net:30110
+[    814641] Sending heartbeat to live-internal.fivem.net:30110
+[    819500] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[         0] Hello!
+[        47] ^3Couldn't find resource sessionmanager.^7
+[        94] ^3Couldn't find resource mapmanager.^7
+[        94] ^3Couldn't find resource chat.^7
+[        94] ^3Couldn't find resource spawnmanager.^7
+[        94] ^3Couldn't find resource sessionmanager.^7
+[        94] ^3Couldn't find resource fivem.^7
+[        94] ^3Couldn't find resource hardcap.^7
+[        94] ^3Couldn't find resource rconlog.^7
+[        94] ^3Couldn't find resource scoreboard.^7
+[        94] ^3Couldn't find resource playernames.^7
+[        94] Authenticating server license key...
+[      1922] Server license key authentication succeeded. Welcome!
+[      2063] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      2063] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[        15] Hello!
+[        47] ^3Couldn't find resource sessionmanager.^7
+[        47] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        47] Found new resource fivem in D:/fivemserver/resources//fivem
+[       125] Found new resource fivem-awesome1501 in D:/fivemserver/resources//fivem-awesome1501
+[       125] Found new resource fivem-map-hipster in D:/fivemserver/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in D:/fivemserver/resources//fivem-map-skater
+[       125] Found new resource runcode in D:/fivemserver/resources//runcode
+[       125] Found new resource race in D:/fivemserver/resources//[gamemodes]/race
+[       141] Found new resource race-test in D:/fivemserver/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in D:/fivemserver/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in D:/fivemserver/resources//[gameplay]/irc
+[       141] Found new resource obituary in D:/fivemserver/resources//[gameplay]/obituary
+[       141] Found new resource obituary-deaths in D:/fivemserver/resources//[gameplay]/obituary-deaths
+[       141] Found new resource playernames in D:/fivemserver/resources//[gameplay]/playernames
+[       156] Found new resource mapmanager in D:/fivemserver/resources//[managers]/mapmanager
+[       156] Found new resource baseevents in D:/fivemserver/resources//[system]/baseevents
+[       156] Found new resource chat in D:/fivemserver/resources//[system]/chat
+[       172] Found new resource hardcap in D:/fivemserver/resources//[system]/hardcap
+[       172] Found new resource rconlog in D:/fivemserver/resources//[system]/rconlog
+[       172] Found new resource scoreboard in D:/fivemserver/resources//[system]/scoreboard
+[       172] Found new resource sessionmanager in D:/fivemserver/resources//[system]/sessionmanager
+[       172] Found new resource spawnmanager in D:/fivemserver/resources//[system]/spawnmanager
+[       187] Found new resource betaguns in D:/fivemserver/resources//[test]/betaguns
+[       187] Found new resource gameInit in D:/fivemserver/resources//[test]/gameInit
+[       187] Found new resource keks in D:/fivemserver/resources//[test]/keks
+[       359] Started resource sessionmanager
+[       375] Started resource mapmanager
+[       453] Started resource chat
+[       453] Started resource spawnmanager
+[       453] Started resource fivem
+[       453] Started gametype RPG
+[       469] Started resource hardcap
+[       469] Started resource rconlog
+[       484] Started resource scoreboard
+[       484] Started resource playernames
+[       500] Authenticating server license key...
+[      1609] Server license key authentication succeeded. Welcome!
+[      1672] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      1672] Sending heartbeat to live-internal.fivem.net:30110
+[      1672] Started resource fivem-map-skater
+[      1672] Started map fivem-map-skater
+[     47391] Connecting: Catsui
+[     56484] Sending heartbeat to live-internal.fivem.net:30110
+[     56797] Connecting: Catsui
+[     97219] Initializing Mono
+[     97234] Initializing Mono completed
+[     97234] Hello!
+[     97281] Found new resource fivem in D:/fivemserver/resources//fivem
+[     97281] Found new resource fivem-awesome1501 in D:/fivemserver/resources//fivem-awesome1501
+[     97281] Found new resource fivem-map-hipster in D:/fivemserver/resources//fivem-map-hipster
+[     97281] Found new resource fivem-map-skater in D:/fivemserver/resources//fivem-map-skater
+[     97281] Found new resource runcode in D:/fivemserver/resources//runcode
+[     97281] Found new resource race in D:/fivemserver/resources//[gamemodes]/race
+[     97281] Found new resource race-test in D:/fivemserver/resources//[gamemodes]/race-test
+[     97281] Found new resource channelfeed in D:/fivemserver/resources//[gameplay]/channelfeed
+[     97297] Found new resource irc in D:/fivemserver/resources//[gameplay]/irc
+[     97297] Found new resource obituary in D:/fivemserver/resources//[gameplay]/obituary
+[     97297] Found new resource obituary-deaths in D:/fivemserver/resources//[gameplay]/obituary-deaths
+[     97297] Found new resource playernames in D:/fivemserver/resources//[gameplay]/playernames
+[     97297] Found new resource mapmanager in D:/fivemserver/resources//[managers]/mapmanager
+[     97297] Found new resource baseevents in D:/fivemserver/resources//[system]/baseevents
+[     97297] Found new resource chat in D:/fivemserver/resources//[system]/chat
+[     97297] Found new resource hardcap in D:/fivemserver/resources//[system]/hardcap
+[     97297] Found new resource rconlog in D:/fivemserver/resources//[system]/rconlog
+[     97297] Found new resource scoreboard in D:/fivemserver/resources//[system]/scoreboard
+[     97312] Found new resource sessionmanager in D:/fivemserver/resources//[system]/sessionmanager
+[     97312] Found new resource spawnmanager in D:/fivemserver/resources//[system]/spawnmanager
+[     97312] Found new resource betaguns in D:/fivemserver/resources//[test]/betaguns
+[     97312] Found new resource gameInit in D:/fivemserver/resources//[test]/gameInit
+[     97312] Found new resource keks in D:/fivemserver/resources//[test]/keks
+[     97359] Started resource sessionmanager
+[     97359] Started resource mapmanager
+[     97359] Started resource chat
+[     97375] Started resource spawnmanager
+[     97375] Started resource fivem
+[     97375] Started gametype RPG
+[     97375] Started resource hardcap
+[     97375] Started resource rconlog
+[     97375] Started resource scoreboard
+[     97391] Started resource playernames
+[     97391] Authenticating server license key...
+[     98703] Server license key authentication succeeded. Welcome!
+[     98828] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[     98844] Sending heartbeat to live-internal.fivem.net:30110
+[     98859] Started resource fivem-map-hipster
+[     98859] Started map fivem-map-hipster
+[    104766] Connecting: Catsui
+[    105203] Sending heartbeat to live-internal.fivem.net:30110
+[    156734] Can't agree on a ciphersuite with client
+[    180937] Connecting: CrYzYDaRcK
+[    182984] Sending heartbeat to live-internal.fivem.net:30110
+[    363000] Sending heartbeat to live-internal.fivem.net:30110
+[    405094] Connecting: Tacho
+[    407109] Sending heartbeat to live-internal.fivem.net:30110
+[    562281] Connecting: FlaMeCroWn®
+[    564969] Sending heartbeat to live-internal.fivem.net:30110
+[    691344] Sending heartbeat to live-internal.fivem.net:30110
+[    781219] Connecting: Flosion
+[    782484] Sending heartbeat to live-internal.fivem.net:30110
+[    799937] Sending heartbeat to live-internal.fivem.net:30110
+[    801844] Catsui: aí
+[    809391] Catsui: tá com animal pra cacete
+[    838375] Connecting: Água mineral com gás
+[    840547] Sending heartbeat to live-internal.fivem.net:30110
+[    872812] Sending heartbeat to live-internal.fivem.net:30110
+[   1052828] Sending heartbeat to live-internal.fivem.net:30110
+[   1232828] Sending heartbeat to live-internal.fivem.net:30110
+[   1412844] Sending heartbeat to live-internal.fivem.net:30110
+[   1499469] Sending heartbeat to live-internal.fivem.net:30110
