@@ -1,1 +1,1 @@
-start D:\fivemserver\run.cmd +exec server.cfg
+start C:\Users\ivand\Documents\GitHub\gtavrp\run.cmd +exec server.cfg
