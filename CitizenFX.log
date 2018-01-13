@@ -244,3 +244,631 @@
 [   1232828] Sending heartbeat to live-internal.fivem.net:30110
 [   1412844] Sending heartbeat to live-internal.fivem.net:30110
 [   1499469] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[       172] Initializing Mono completed
+[       281] Hello!
+[       500] Found new resource fivem in D:/Vila_do_Tacho/resources//fivem
+[       594] Found new resource fivem-awesome1501 in D:/Vila_do_Tacho/resources//fivem-awesome1501
+[       610] Found new resource fivem-map-hipster in D:/Vila_do_Tacho/resources//fivem-map-hipster
+[       610] Found new resource fivem-map-skater in D:/Vila_do_Tacho/resources//fivem-map-skater
+[       610] Found new resource runcode in D:/Vila_do_Tacho/resources//runcode
+[       610] Found new resource race in D:/Vila_do_Tacho/resources//[gamemodes]/race
+[       625] Found new resource race-test in D:/Vila_do_Tacho/resources//[gamemodes]/race-test
+[       625] Found new resource channelfeed in D:/Vila_do_Tacho/resources//[gameplay]/channelfeed
+[       625] Found new resource irc in D:/Vila_do_Tacho/resources//[gameplay]/irc
+[       625] Found new resource obituary in D:/Vila_do_Tacho/resources//[gameplay]/obituary
+[       625] Found new resource obituary-deaths in D:/Vila_do_Tacho/resources//[gameplay]/obituary-deaths
+[       641] Found new resource playernames in D:/Vila_do_Tacho/resources//[gameplay]/playernames
+[       641] Found new resource mapmanager in D:/Vila_do_Tacho/resources//[managers]/mapmanager
+[       672] Found new resource baseevents in D:/Vila_do_Tacho/resources//[system]/baseevents
+[       672] Found new resource chat in D:/Vila_do_Tacho/resources//[system]/chat
+[       688] Found new resource hardcap in D:/Vila_do_Tacho/resources//[system]/hardcap
+[       703] Found new resource rconlog in D:/Vila_do_Tacho/resources//[system]/rconlog
+[       703] Found new resource scoreboard in D:/Vila_do_Tacho/resources//[system]/scoreboard
+[       703] Found new resource sessionmanager in D:/Vila_do_Tacho/resources//[system]/sessionmanager
+[       703] Found new resource spawnmanager in D:/Vila_do_Tacho/resources//[system]/spawnmanager
+[       703] Found new resource betaguns in D:/Vila_do_Tacho/resources//[test]/betaguns
+[       703] Found new resource gameInit in D:/Vila_do_Tacho/resources//[test]/gameInit
+[       703] Found new resource keks in D:/Vila_do_Tacho/resources//[test]/keks
+[       860] Started resource sessionmanager
+[      1063] Started resource mapmanager
+[      1141] Started resource chat
+[      1250] Started resource spawnmanager
+[      1266] Started resource fivem
+[      1266] Started gametype RPG
+[      1297] Started resource hardcap
+[      1344] Started resource rconlog
+[      1360] Started resource scoreboard
+[      1438] Started resource playernames
+[      1469] Authenticating server license key...
+[      2813] Server license key authentication succeeded. Welcome!
+[      2953] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      2953] Sending heartbeat to live-internal.fivem.net:30110
+[      2953] Started resource fivem-map-hipster
+[      2953] Started map fivem-map-hipster
+[     32719] Connecting: Catsui
+[     33125] Sending heartbeat to live-internal.fivem.net:30110
+[    213172] Sending heartbeat to live-internal.fivem.net:30110
+[    278797] Sending heartbeat to live-internal.fivem.net:30110
+[    284844] Connecting: NovATuH
+[    288797] Sending heartbeat to live-internal.fivem.net:30110
+[    450656] Sending heartbeat to live-internal.fivem.net:30110
+[    630672] Sending heartbeat to live-internal.fivem.net:30110
+[    810672] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[        47] Found new resource fivem in D:/Vila_do_Tacho/resources//fivem
+[        47] Found new resource fivem-awesome1501 in D:/Vila_do_Tacho/resources//fivem-awesome1501
+[        47] Found new resource fivem-map-hipster in D:/Vila_do_Tacho/resources//fivem-map-hipster
+[        47] Found new resource fivem-map-skater in D:/Vila_do_Tacho/resources//fivem-map-skater
+[        62] Found new resource runcode in D:/Vila_do_Tacho/resources//runcode
+[        62] Found new resource race in D:/Vila_do_Tacho/resources//[gamemodes]/race
+[        62] Found new resource race-test in D:/Vila_do_Tacho/resources//[gamemodes]/race-test
+[        62] Found new resource channelfeed in D:/Vila_do_Tacho/resources//[gameplay]/channelfeed
+[        62] Found new resource irc in D:/Vila_do_Tacho/resources//[gameplay]/irc
+[        62] Found new resource obituary in D:/Vila_do_Tacho/resources//[gameplay]/obituary
+[        62] Found new resource obituary-deaths in D:/Vila_do_Tacho/resources//[gameplay]/obituary-deaths
+[        62] Found new resource playernames in D:/Vila_do_Tacho/resources//[gameplay]/playernames
+[        62] Found new resource mapmanager in D:/Vila_do_Tacho/resources//[managers]/mapmanager
+[        62] Found new resource baseevents in D:/Vila_do_Tacho/resources//[system]/baseevents
+[        78] Found new resource chat in D:/Vila_do_Tacho/resources//[system]/chat
+[        78] Found new resource hardcap in D:/Vila_do_Tacho/resources//[system]/hardcap
+[        78] Found new resource rconlog in D:/Vila_do_Tacho/resources//[system]/rconlog
+[        78] Found new resource scoreboard in D:/Vila_do_Tacho/resources//[system]/scoreboard
+[        78] Found new resource sessionmanager in D:/Vila_do_Tacho/resources//[system]/sessionmanager
+[        78] Found new resource spawnmanager in D:/Vila_do_Tacho/resources//[system]/spawnmanager
+[        78] Found new resource betaguns in D:/Vila_do_Tacho/resources//[test]/betaguns
+[        78] Found new resource gameInit in D:/Vila_do_Tacho/resources//[test]/gameInit
+[        78] Found new resource keks in D:/Vila_do_Tacho/resources//[test]/keks
+[        93] Started resource sessionmanager
+[       109] Started resource mapmanager
+[       109] Started resource chat
+[       109] Started resource spawnmanager
+[       109] Started resource fivem
+[       109] Started gametype RPG
+[       125] Started resource hardcap
+[       125] Started resource rconlog
+[       125] Started resource scoreboard
+[       125] Started resource playernames
+[       125] Authenticating server license key...
+[      1562] Server license key authentication succeeded. Welcome!
+[      1687] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      1687] Sending heartbeat to live-internal.fivem.net:30110
+[      1703] Started resource fivem-map-hipster
+[      1703] Started map fivem-map-hipster
+[    181734] Sending heartbeat to live-internal.fivem.net:30110
+[    217890] ^3Couldn't find resource lambda-menu.^7
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[         0] Hello!
+[        47] Found new resource fivem in D:/Vila_do_Tacho/resources//fivem
+[        47] Found new resource fivem-awesome1501 in D:/Vila_do_Tacho/resources//fivem-awesome1501
+[        47] Found new resource fivem-map-hipster in D:/Vila_do_Tacho/resources//fivem-map-hipster
+[        47] Found new resource fivem-map-skater in D:/Vila_do_Tacho/resources//fivem-map-skater
+[        47] Found new resource plugins in D:/Vila_do_Tacho/resources//plugins
+[        47] Resource loading for plugins failed:
+[        47] Could not open resource metadata file D:/Vila_do_Tacho/resources//plugins/__resource.lua.
+[        47] Found new resource runcode in D:/Vila_do_Tacho/resources//runcode
+[        47] Found new resource race in D:/Vila_do_Tacho/resources//[gamemodes]/race
+[        47] Found new resource race-test in D:/Vila_do_Tacho/resources//[gamemodes]/race-test
+[        63] Found new resource channelfeed in D:/Vila_do_Tacho/resources//[gameplay]/channelfeed
+[        63] Found new resource irc in D:/Vila_do_Tacho/resources//[gameplay]/irc
+[        63] Found new resource obituary in D:/Vila_do_Tacho/resources//[gameplay]/obituary
+[        63] Found new resource obituary-deaths in D:/Vila_do_Tacho/resources//[gameplay]/obituary-deaths
+[        63] Found new resource playernames in D:/Vila_do_Tacho/resources//[gameplay]/playernames
+[        63] Found new resource mapmanager in D:/Vila_do_Tacho/resources//[managers]/mapmanager
+[        63] Found new resource baseevents in D:/Vila_do_Tacho/resources//[system]/baseevents
+[        63] Found new resource chat in D:/Vila_do_Tacho/resources//[system]/chat
+[        63] Found new resource hardcap in D:/Vila_do_Tacho/resources//[system]/hardcap
+[        78] Found new resource rconlog in D:/Vila_do_Tacho/resources//[system]/rconlog
+[        78] Found new resource scoreboard in D:/Vila_do_Tacho/resources//[system]/scoreboard
+[        78] Found new resource sessionmanager in D:/Vila_do_Tacho/resources//[system]/sessionmanager
+[        78] Found new resource spawnmanager in D:/Vila_do_Tacho/resources//[system]/spawnmanager
+[        78] Found new resource betaguns in D:/Vila_do_Tacho/resources//[test]/betaguns
+[        78] Found new resource gameInit in D:/Vila_do_Tacho/resources//[test]/gameInit
+[        78] Found new resource keks in D:/Vila_do_Tacho/resources//[test]/keks
+[        94] Started resource sessionmanager
+[       110] Started resource mapmanager
+[       110] Started resource chat
+[       110] Started resource spawnmanager
+[       110] Started resource fivem
+[       110] Started gametype RPG
+[       125] Started resource hardcap
+[       125] Started resource rconlog
+[       125] Started resource scoreboard
+[       125] Started resource playernames
+[       125] Authenticating server license key...
+[      1219] Server license key authentication succeeded. Welcome!
+[      1344] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      1344] Sending heartbeat to live-internal.fivem.net:30110
+[      1360] Started resource fivem-map-hipster
+[      1360] Started map fivem-map-hipster
+[     17125] ^3Couldn't find resource lambda-menu.^7
+[     47438] ^3Couldn't find resource lambda-menu.^7
+[     62313] ^3Couldn't find resource LambdaMenu.^7
+[     68078] ^3Couldn't find resource LambdaMenu.asi.^7
+[     98563] ^3Couldn't find resource lambda-menu.^7
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        47] Found new resource fivem in D:/Vila_do_Tacho/resources//fivem
+[        47] Found new resource fivem-awesome1501 in D:/Vila_do_Tacho/resources//fivem-awesome1501
+[        63] Found new resource fivem-map-hipster in D:/Vila_do_Tacho/resources//fivem-map-hipster
+[        63] Found new resource fivem-map-skater in D:/Vila_do_Tacho/resources//fivem-map-skater
+[        63] Found new resource plugins in D:/Vila_do_Tacho/resources//plugins
+[        63] Resource loading for plugins failed:
+[        63] Could not open resource metadata file D:/Vila_do_Tacho/resources//plugins/__resource.lua.
+[        63] Found new resource runcode in D:/Vila_do_Tacho/resources//runcode
+[        63] Found new resource race in D:/Vila_do_Tacho/resources//[gamemodes]/race
+[        63] Found new resource race-test in D:/Vila_do_Tacho/resources//[gamemodes]/race-test
+[        63] Found new resource channelfeed in D:/Vila_do_Tacho/resources//[gameplay]/channelfeed
+[        63] Found new resource irc in D:/Vila_do_Tacho/resources//[gameplay]/irc
+[        78] Found new resource obituary in D:/Vila_do_Tacho/resources//[gameplay]/obituary
+[        78] Found new resource obituary-deaths in D:/Vila_do_Tacho/resources//[gameplay]/obituary-deaths
+[        78] Found new resource playernames in D:/Vila_do_Tacho/resources//[gameplay]/playernames
+[        78] Found new resource mapmanager in D:/Vila_do_Tacho/resources//[managers]/mapmanager
+[        78] Found new resource baseevents in D:/Vila_do_Tacho/resources//[system]/baseevents
+[        78] Found new resource chat in D:/Vila_do_Tacho/resources//[system]/chat
+[        78] Found new resource hardcap in D:/Vila_do_Tacho/resources//[system]/hardcap
+[        78] Found new resource rconlog in D:/Vila_do_Tacho/resources//[system]/rconlog
+[        78] Found new resource scoreboard in D:/Vila_do_Tacho/resources//[system]/scoreboard
+[        94] Found new resource sessionmanager in D:/Vila_do_Tacho/resources//[system]/sessionmanager
+[        94] Found new resource spawnmanager in D:/Vila_do_Tacho/resources//[system]/spawnmanager
+[        94] Found new resource betaguns in D:/Vila_do_Tacho/resources//[test]/betaguns
+[        94] Found new resource gameInit in D:/Vila_do_Tacho/resources//[test]/gameInit
+[        94] Found new resource keks in D:/Vila_do_Tacho/resources//[test]/keks
+[       109] Started resource sessionmanager
+[       125] Started resource mapmanager
+[       125] Started resource chat
+[       125] Started resource spawnmanager
+[       125] Started resource fivem
+[       125] Started gametype RPG
+[       141] Started resource hardcap
+[       141] Started resource rconlog
+[       141] Started resource scoreboard
+[       141] Started resource playernames
+[       141] Authenticating server license key...
+[      1375] Server license key authentication succeeded. Welcome!
+[      1500] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      1500] Sending heartbeat to live-internal.fivem.net:30110
+[      1500] Started resource fivem-map-hipster
+[      1500] Started map fivem-map-hipster
+[    138203] ^3Couldn't find resource plugin.^7
+[    147531] ^3Couldn't find resource lambda-menu.^7
+[    181547] Sending heartbeat to live-internal.fivem.net:30110
+[    197797] ^3Couldn't find resource lambda-menu.^7
+[    204188] ^3Couldn't find resource lambdamenu.^7
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[         0] Hello!
+[        47] Found new resource fivem in D:/Vila_do_Tacho/resources//fivem
+[        47] Found new resource fivem-awesome1501 in D:/Vila_do_Tacho/resources//fivem-awesome1501
+[        47] Found new resource fivem-map-hipster in D:/Vila_do_Tacho/resources//fivem-map-hipster
+[        47] Found new resource fivem-map-skater in D:/Vila_do_Tacho/resources//fivem-map-skater
+[        47] Found new resource plugins in D:/Vila_do_Tacho/resources//plugins
+[        47] Resource loading for plugins failed:
+[        47] Could not open resource metadata file D:/Vila_do_Tacho/resources//plugins/__resource.lua.
+[        47] Found new resource runcode in D:/Vila_do_Tacho/resources//runcode
+[        62] Found new resource race in D:/Vila_do_Tacho/resources//[gamemodes]/race
+[        62] Found new resource race-test in D:/Vila_do_Tacho/resources//[gamemodes]/race-test
+[        62] Found new resource channelfeed in D:/Vila_do_Tacho/resources//[gameplay]/channelfeed
+[        62] Found new resource irc in D:/Vila_do_Tacho/resources//[gameplay]/irc
+[        62] Found new resource obituary in D:/Vila_do_Tacho/resources//[gameplay]/obituary
+[        62] Found new resource obituary-deaths in D:/Vila_do_Tacho/resources//[gameplay]/obituary-deaths
+[        62] Found new resource playernames in D:/Vila_do_Tacho/resources//[gameplay]/playernames
+[        62] Found new resource mapmanager in D:/Vila_do_Tacho/resources//[managers]/mapmanager
+[        62] Found new resource baseevents in D:/Vila_do_Tacho/resources//[system]/baseevents
+[        62] Found new resource chat in D:/Vila_do_Tacho/resources//[system]/chat
+[        78] Found new resource hardcap in D:/Vila_do_Tacho/resources//[system]/hardcap
+[        78] Found new resource rconlog in D:/Vila_do_Tacho/resources//[system]/rconlog
+[        78] Found new resource scoreboard in D:/Vila_do_Tacho/resources//[system]/scoreboard
+[        78] Found new resource sessionmanager in D:/Vila_do_Tacho/resources//[system]/sessionmanager
+[        78] Found new resource spawnmanager in D:/Vila_do_Tacho/resources//[system]/spawnmanager
+[        78] Found new resource betaguns in D:/Vila_do_Tacho/resources//[test]/betaguns
+[        78] Found new resource gameInit in D:/Vila_do_Tacho/resources//[test]/gameInit
+[        78] Found new resource keks in D:/Vila_do_Tacho/resources//[test]/keks
+[        94] Started resource sessionmanager
+[       109] Started resource mapmanager
+[       109] Started resource chat
+[       109] Started resource spawnmanager
+[       125] Started resource fivem
+[       125] Started gametype RPG
+[       125] Started resource hardcap
+[       125] Started resource rconlog
+[       125] Started resource scoreboard
+[       125] Started resource playernames
+[       141] Authenticating server license key...
+[      1484] Server license key authentication succeeded. Welcome!
+[      1656] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      1656] Sending heartbeat to live-internal.fivem.net:30110
+[      1672] Started resource fivem-map-skater
+[      1687] Started map fivem-map-skater
+[     11797] ^3Couldn't find resource lambda-menu.^7
+[    105141] Connecting: almeidagamer82©
+[    106375] Sending heartbeat to live-internal.fivem.net:30110
+[    128687] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        47] Found new resource fivem in D:/Vila_do_Tacho/resources//fivem
+[        63] Found new resource fivem-awesome1501 in D:/Vila_do_Tacho/resources//fivem-awesome1501
+[        63] Found new resource fivem-map-hipster in D:/Vila_do_Tacho/resources//fivem-map-hipster
+[        63] Found new resource fivem-map-skater in D:/Vila_do_Tacho/resources//fivem-map-skater
+[        63] Found new resource mellotrainer in D:/Vila_do_Tacho/resources//mellotrainer
+[        63] Found new resource runcode in D:/Vila_do_Tacho/resources//runcode
+[        63] Found new resource race in D:/Vila_do_Tacho/resources//[gamemodes]/race
+[        63] Found new resource race-test in D:/Vila_do_Tacho/resources//[gamemodes]/race-test
+[        63] Found new resource channelfeed in D:/Vila_do_Tacho/resources//[gameplay]/channelfeed
+[        63] Found new resource irc in D:/Vila_do_Tacho/resources//[gameplay]/irc
+[        63] Found new resource obituary in D:/Vila_do_Tacho/resources//[gameplay]/obituary
+[        79] Found new resource obituary-deaths in D:/Vila_do_Tacho/resources//[gameplay]/obituary-deaths
+[        79] Found new resource playernames in D:/Vila_do_Tacho/resources//[gameplay]/playernames
+[        79] Found new resource mapmanager in D:/Vila_do_Tacho/resources//[managers]/mapmanager
+[        79] Found new resource baseevents in D:/Vila_do_Tacho/resources//[system]/baseevents
+[        79] Found new resource chat in D:/Vila_do_Tacho/resources//[system]/chat
+[        79] Found new resource hardcap in D:/Vila_do_Tacho/resources//[system]/hardcap
+[        79] Found new resource rconlog in D:/Vila_do_Tacho/resources//[system]/rconlog
+[        79] Found new resource scoreboard in D:/Vila_do_Tacho/resources//[system]/scoreboard
+[        79] Found new resource sessionmanager in D:/Vila_do_Tacho/resources//[system]/sessionmanager
+[        94] Found new resource spawnmanager in D:/Vila_do_Tacho/resources//[system]/spawnmanager
+[        94] Found new resource betaguns in D:/Vila_do_Tacho/resources//[test]/betaguns
+[        94] Found new resource gameInit in D:/Vila_do_Tacho/resources//[test]/gameInit
+[        94] Found new resource keks in D:/Vila_do_Tacho/resources//[test]/keks
+[       110] Started resource sessionmanager
+[       110] Started resource mapmanager
+[       125] Started resource chat
+[       125] Started resource spawnmanager
+[       125] Started resource fivem
+[       125] Started gametype RPG
+[       125] Started resource hardcap
+[       125] Started resource rconlog
+[       141] Started resource scoreboard
+[       141] Started resource playernames
+[       141] Authenticating server license key...
+[      1407] Server license key authentication succeeded. Welcome!
+[      1547] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      1547] Sending heartbeat to live-internal.fivem.net:30110
+[      1547] Started resource fivem-map-hipster
+[      1547] Started map fivem-map-hipster
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[         0] Hello!
+[        47] Found new resource fivem in D:/Vila_do_Tacho/resources//fivem
+[        47] Found new resource fivem-awesome1501 in D:/Vila_do_Tacho/resources//fivem-awesome1501
+[        47] Found new resource fivem-map-hipster in D:/Vila_do_Tacho/resources//fivem-map-hipster
+[        47] Found new resource fivem-map-skater in D:/Vila_do_Tacho/resources//fivem-map-skater
+[        47] Found new resource mellotrainer in D:/Vila_do_Tacho/resources//mellotrainer
+[        47] Found new resource runcode in D:/Vila_do_Tacho/resources//runcode
+[        47] Found new resource race in D:/Vila_do_Tacho/resources//[gamemodes]/race
+[        47] Found new resource race-test in D:/Vila_do_Tacho/resources//[gamemodes]/race-test
+[        62] Found new resource channelfeed in D:/Vila_do_Tacho/resources//[gameplay]/channelfeed
+[        62] Found new resource irc in D:/Vila_do_Tacho/resources//[gameplay]/irc
+[        62] Found new resource obituary in D:/Vila_do_Tacho/resources//[gameplay]/obituary
+[        62] Found new resource obituary-deaths in D:/Vila_do_Tacho/resources//[gameplay]/obituary-deaths
+[        62] Found new resource playernames in D:/Vila_do_Tacho/resources//[gameplay]/playernames
+[        62] Found new resource mapmanager in D:/Vila_do_Tacho/resources//[managers]/mapmanager
+[        62] Found new resource baseevents in D:/Vila_do_Tacho/resources//[system]/baseevents
+[        62] Found new resource chat in D:/Vila_do_Tacho/resources//[system]/chat
+[        62] Found new resource hardcap in D:/Vila_do_Tacho/resources//[system]/hardcap
+[        78] Found new resource rconlog in D:/Vila_do_Tacho/resources//[system]/rconlog
+[        78] Found new resource scoreboard in D:/Vila_do_Tacho/resources//[system]/scoreboard
+[        78] Found new resource sessionmanager in D:/Vila_do_Tacho/resources//[system]/sessionmanager
+[        78] Found new resource spawnmanager in D:/Vila_do_Tacho/resources//[system]/spawnmanager
+[        78] Found new resource betaguns in D:/Vila_do_Tacho/resources//[test]/betaguns
+[        78] Found new resource gameInit in D:/Vila_do_Tacho/resources//[test]/gameInit
+[        78] Found new resource keks in D:/Vila_do_Tacho/resources//[test]/keks
+[        94] Started resource sessionmanager
+[       109] Started resource mapmanager
+[       109] Started resource chat
+[       109] Started resource spawnmanager
+[       109] Started resource fivem
+[       109] Started gametype RPG
+[       125] Started resource hardcap
+[       125] Started resource rconlog
+[       125] Started resource scoreboard
+[       125] Started resource playernames
+[       156] Started resource mellotrainer
+[       156] Authenticating server license key...
+[      1531] Server license key authentication succeeded. Welcome!
+[      1578] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      1578] Sending heartbeat to live-internal.fivem.net:30110
+[      1594] Started resource fivem-map-hipster
+[      1594] Started map fivem-map-hipster
+[      2640] 
+[      2640] Current MelloTrainer Version: 0.5.5
+[      2640] Latest MelloTrainer Version: 0.5.5
+[      2640] MelloTrainer is up to date!
+[      2687] MELLOTRAINER: mtsaves folder not found, attempting to create.
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[        46] Found new resource fivem in D:/Vila_do_Tacho/resources//fivem
+[        46] Found new resource fivem-awesome1501 in D:/Vila_do_Tacho/resources//fivem-awesome1501
+[        46] Found new resource fivem-map-hipster in D:/Vila_do_Tacho/resources//fivem-map-hipster
+[        62] Found new resource fivem-map-skater in D:/Vila_do_Tacho/resources//fivem-map-skater
+[        62] Found new resource mellotrainer in D:/Vila_do_Tacho/resources//mellotrainer
+[        62] Found new resource runcode in D:/Vila_do_Tacho/resources//runcode
+[        62] Found new resource race in D:/Vila_do_Tacho/resources//[gamemodes]/race
+[        62] Found new resource race-test in D:/Vila_do_Tacho/resources//[gamemodes]/race-test
+[        62] Found new resource channelfeed in D:/Vila_do_Tacho/resources//[gameplay]/channelfeed
+[        62] Found new resource irc in D:/Vila_do_Tacho/resources//[gameplay]/irc
+[        62] Found new resource obituary in D:/Vila_do_Tacho/resources//[gameplay]/obituary
+[        62] Found new resource obituary-deaths in D:/Vila_do_Tacho/resources//[gameplay]/obituary-deaths
+[        78] Found new resource playernames in D:/Vila_do_Tacho/resources//[gameplay]/playernames
+[        78] Found new resource mapmanager in D:/Vila_do_Tacho/resources//[managers]/mapmanager
+[        78] Found new resource baseevents in D:/Vila_do_Tacho/resources//[system]/baseevents
+[        78] Found new resource chat in D:/Vila_do_Tacho/resources//[system]/chat
+[        78] Found new resource hardcap in D:/Vila_do_Tacho/resources//[system]/hardcap
+[        78] Found new resource rconlog in D:/Vila_do_Tacho/resources//[system]/rconlog
+[        78] Found new resource scoreboard in D:/Vila_do_Tacho/resources//[system]/scoreboard
+[        78] Found new resource sessionmanager in D:/Vila_do_Tacho/resources//[system]/sessionmanager
+[        78] Found new resource spawnmanager in D:/Vila_do_Tacho/resources//[system]/spawnmanager
+[        78] Found new resource betaguns in D:/Vila_do_Tacho/resources//[test]/betaguns
+[        93] Found new resource gameInit in D:/Vila_do_Tacho/resources//[test]/gameInit
+[        93] Found new resource keks in D:/Vila_do_Tacho/resources//[test]/keks
+[       109] Started resource sessionmanager
+[       109] Started resource mapmanager
+[       125] Started resource chat
+[       125] Started resource spawnmanager
+[       125] Started resource fivem
+[       125] Started gametype RPG
+[       125] Started resource hardcap
+[       125] Started resource rconlog
+[       125] Started resource scoreboard
+[       140] Started resource playernames
+[       140] Started resource mellotrainer
+[       156] Authenticating server license key...
+[       703] Server license key authentication succeeded. Welcome!
+[       750] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[       750] Sending heartbeat to live-internal.fivem.net:30110
+[       750] Started resource fivem-map-hipster
+[       750] Started map fivem-map-hipster
+[      1796] 
+[      1796] Current MelloTrainer Version: 0.5.5
+[      1812] Latest MelloTrainer Version: 0.5.5
+[      1812] MelloTrainer is up to date!
+[      1875] MELLOTRAINER: mtsaves folder found!
+[     37984] Connecting: Catsui
+[     38859] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[         0] Hello!
+[        47] Found new resource fivem in D:/Vila_do_Tacho/resources//fivem
+[        47] Found new resource fivem-awesome1501 in D:/Vila_do_Tacho/resources//fivem-awesome1501
+[        47] Found new resource fivem-map-hipster in D:/Vila_do_Tacho/resources//fivem-map-hipster
+[        47] Found new resource fivem-map-skater in D:/Vila_do_Tacho/resources//fivem-map-skater
+[        47] Found new resource mellotrainer in D:/Vila_do_Tacho/resources//mellotrainer
+[        47] Found new resource runcode in D:/Vila_do_Tacho/resources//runcode
+[        47] Found new resource race in D:/Vila_do_Tacho/resources//[gamemodes]/race
+[        47] Found new resource race-test in D:/Vila_do_Tacho/resources//[gamemodes]/race-test
+[        47] Found new resource channelfeed in D:/Vila_do_Tacho/resources//[gameplay]/channelfeed
+[        63] Found new resource irc in D:/Vila_do_Tacho/resources//[gameplay]/irc
+[        63] Found new resource obituary in D:/Vila_do_Tacho/resources//[gameplay]/obituary
+[        63] Found new resource obituary-deaths in D:/Vila_do_Tacho/resources//[gameplay]/obituary-deaths
+[        63] Found new resource playernames in D:/Vila_do_Tacho/resources//[gameplay]/playernames
+[        63] Found new resource mapmanager in D:/Vila_do_Tacho/resources//[managers]/mapmanager
+[        63] Found new resource baseevents in D:/Vila_do_Tacho/resources//[system]/baseevents
+[        63] Found new resource chat in D:/Vila_do_Tacho/resources//[system]/chat
+[        63] Found new resource hardcap in D:/Vila_do_Tacho/resources//[system]/hardcap
+[        63] Found new resource rconlog in D:/Vila_do_Tacho/resources//[system]/rconlog
+[        63] Found new resource scoreboard in D:/Vila_do_Tacho/resources//[system]/scoreboard
+[        78] Found new resource sessionmanager in D:/Vila_do_Tacho/resources//[system]/sessionmanager
+[        78] Found new resource spawnmanager in D:/Vila_do_Tacho/resources//[system]/spawnmanager
+[        78] Found new resource betaguns in D:/Vila_do_Tacho/resources//[test]/betaguns
+[        78] Found new resource gameInit in D:/Vila_do_Tacho/resources//[test]/gameInit
+[        78] Found new resource keks in D:/Vila_do_Tacho/resources//[test]/keks
+[        94] Started resource sessionmanager
+[       109] Started resource mapmanager
+[       109] Started resource chat
+[       109] Started resource spawnmanager
+[       109] Started resource fivem
+[       109] Started gametype RPG
+[       109] Started resource hardcap
+[       125] Started resource rconlog
+[       125] Started resource scoreboard
+[       125] Started resource playernames
+[       141] Started resource mellotrainer
+[       141] Authenticating server license key...
+[      1438] Server license key authentication succeeded. Welcome!
+[      1578] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[      1578] Sending heartbeat to live-internal.fivem.net:30110
+[      1578] Started resource fivem-map-hipster
+[      1578] Started map fivem-map-hipster
+[      2594] 
+[      2594] Current MelloTrainer Version: 0.5.5
+[      2594] Latest MelloTrainer Version: 0.5.5
+[      2594] MelloTrainer is up to date!
+[      2641] MELLOTRAINER: mtsaves folder found!
+[     37313] Connecting: Catsui
+[     37688] Sending heartbeat to live-internal.fivem.net:30110
+[     73359] MELLOTRAINER: Creating skins save file for Catsui
+[     73359] MELLOTRAINER: Creating toggles save file for Catsui
+[     73359] MELLOTRAINER: Creating vehicles save file for Catsui
+[    217703] Sending heartbeat to live-internal.fivem.net:30110
+[    280109] Connecting: Tacho
+[    288828] Sending heartbeat to live-internal.fivem.net:30110
+[    327406] Connecting: SK - FALLEN
+[    332047] Sending heartbeat to live-internal.fivem.net:30110
+[    344047] MELLOTRAINER: Creating skins save file for Tacho
+[    344047] MELLOTRAINER: Creating toggles save file for Tacho
+[    344047] MELLOTRAINER: Creating vehicles save file for Tacho
+[    346797] MELLOTRAINER: Creating skins save file for SK - FALLEN
+[    346797] MELLOTRAINER: Creating toggles save file for SK - FALLEN
+[    346797] MELLOTRAINER: Creating vehicles save file for SK - FALLEN
+[    353453] Sending heartbeat to live-internal.fivem.net:30110
+[    443328] Connecting: prw1
+[    453734] Sending heartbeat to live-internal.fivem.net:30110
+[    515406] MELLOTRAINER: Creating skins save file for prw1
+[    515406] MELLOTRAINER: Creating toggles save file for prw1
+[    515406] MELLOTRAINER: Creating vehicles save file for prw1
+[    533406] Sending heartbeat to live-internal.fivem.net:30110
+[    569984] Connecting: prw1
+[    571063] Sending heartbeat to live-internal.fivem.net:30110
+[    587906] Received a vouch for Tacho, they have 2 vouches and need 2.
+[    587906] Tacho is the new arbitrator, with an overwhelming 2 vote/s.
+[    591875] Sending heartbeat to live-internal.fivem.net:30110
+[    647438] Connecting: Catsui
+[    647984] Sending heartbeat to live-internal.fivem.net:30110
+[    683250] Sending heartbeat to live-internal.fivem.net:30110
+[    697406] Sending heartbeat to live-internal.fivem.net:30110
+[    724828] Connecting: Catsui
+[    725266] Sending heartbeat to live-internal.fivem.net:30110
+[    767203] Connecting: prw1
+[    768016] Sending heartbeat to live-internal.fivem.net:30110
+[    923969] Sending heartbeat to live-internal.fivem.net:30110
+[   1040766] Connecting: prw1
+[   1041516] Sending heartbeat to live-internal.fivem.net:30110
+[   1179406] Sending heartbeat to live-internal.fivem.net:30110
+[   1214844] Connecting: prw1
+[   1215672] Sending heartbeat to live-internal.fivem.net:30110
+[   1264297] Sending heartbeat to live-internal.fivem.net:30110
+[   1391641] Connecting: prw1
+[   1392531] Sending heartbeat to live-internal.fivem.net:30110
+[   1572547] Sending heartbeat to live-internal.fivem.net:30110
+[   1580594] Sending heartbeat to live-internal.fivem.net:30110
+[   1760609] Sending heartbeat to live-internal.fivem.net:30110
+[   1788047] Connecting: VAYNA
+[   1793828] Sending heartbeat to live-internal.fivem.net:30110
+[   1853891] MELLOTRAINER: Creating skins save file for VAYNA
+[   1853891] MELLOTRAINER: Creating toggles save file for VAYNA
+[   1853891] MELLOTRAINER: Creating vehicles save file for VAYNA
+[   1863219] Sending heartbeat to live-internal.fivem.net:30110
+[   2043266] Sending heartbeat to live-internal.fivem.net:30110
+[   2223297] Sending heartbeat to live-internal.fivem.net:30110
+[   2319828] Connecting: [ ACID ] Marcos Araújo
+[   2323844] Sending heartbeat to live-internal.fivem.net:30110
+[   2406266] MELLOTRAINER: Creating skins save file for [ ACID ] Marcos Araújo
+[   2406266] MELLOTRAINER: Creating toggles save file for [ ACID ] Marcos Araújo
+[   2406266] MELLOTRAINER: Creating vehicles save file for [ ACID ] Marcos Araújo
+[   2439609] Connecting: CLIENTE
+[   2444375] Connecting: CLIENTE
+[   2451734] Connecting: Vyper
+[   2455078] Sending heartbeat to live-internal.fivem.net:30110
+[   2462719] Connecting: CLIENTE
+[   2501500] MELLOTRAINER: Creating skins save file for Vyper
+[   2501500] MELLOTRAINER: Creating toggles save file for Vyper
+[   2501500] MELLOTRAINER: Creating vehicles save file for Vyper
+[   2511063] Connecting: CLIENTE
+[   2533766] Connecting: GUIBE
+[   2534063] Catsui: opa, por enquanto não
+[   2537922] Sending heartbeat to live-internal.fivem.net:30110
+[   2539219] Catsui: só abri pra testar esse trainer
+[   2542578] Tacho: tamos testando umas coisas só
+[   2547172] Catsui: é recem nascido o server hahaha
+[   2551172] Vyper: haha
+[   2559672] Vyper: se precisar de ajuda, só mandar mensagem
+[   2562078] [ ACID ] Marcos Araújo: show
+[   2565781] Catsui: valeu valeu
+[   2581391] Sending heartbeat to live-internal.fivem.net:30110
+[   2761391] Sending heartbeat to live-internal.fivem.net:30110
+[   2762344] Catsui: como tá o ping pra vocês?
+[   2786891] [ ACID ] Marcos Araújo: pra mim esta bom 
+[   2941391] Sending heartbeat to live-internal.fivem.net:30110
+[   3117016] Connecting: prw1
+[   3117844] Sending heartbeat to live-internal.fivem.net:30110
+[   3125297] Vyper: aqui está bom
+[   3184016] Sending heartbeat to live-internal.fivem.net:30110
+[   3196016] Catsui: nice 
+[   3246016] Connecting: prw1
+[   3246797] Sending heartbeat to live-internal.fivem.net:30110
+[   3281547] Sending heartbeat to live-internal.fivem.net:30110
+[   3461563] Sending heartbeat to live-internal.fivem.net:30110
+[   3495375] Connecting: InglesoSanches ©
+[   3499766] Sending heartbeat to live-internal.fivem.net:30110
+[   3561656] MELLOTRAINER: Creating skins save file for InglesoSanches ©
+[   3561656] MELLOTRAINER: Creating toggles save file for InglesoSanches ©
+[   3561656] MELLOTRAINER: Creating vehicles save file for InglesoSanches ©
+[   3561656] hitch warning: frame time of 226 milliseconds
+[   3616500] Connecting: almeidagamer82©
+[   3618906] Sending heartbeat to live-internal.fivem.net:30110
+[   3649422] MELLOTRAINER: Creating skins save file for almeidagamer82©
+[   3649422] MELLOTRAINER: Creating toggles save file for almeidagamer82©
+[   3649422] MELLOTRAINER: Creating vehicles save file for almeidagamer82©
+[   3695125] Catsui: Pessoal, teste completo aqui
+[   3698281] Catsui: vou fechar o teste agora
+[   3703734] InglesoSanches ©: naoooo
+[   3706234] InglesoSanches ©: pf naoooo
+[   3710406] Catsui: obrigado a todos que entraram aí
+[   3718891] InglesoSanches ©: NAOOOO
+[   3721094] [ ACID ] Marcos Araújo: valeu
+[   3726844] Tacho: simmm
+[   3729391] Catsui: Vou finalizar o server e daqui uns dias vem coisa boa por aí
+[   3733797] Catsui: RPzinho de qualidade
+[   3738797] InglesoSanches ©: NAO FECHA PLS
+[   3745703] Catsui: Tá, deixo rodando aqui
+[   3761000] almeidagamer82©: vai ter whitelist?
+[   3762109] Catsui: Vou deixar o pc ligado
+[   3792516] Tacho: vai ter muita coisa boa, relaxa
+[   3798922] Sending heartbeat to live-internal.fivem.net:30110
+[   3803141] Catsui: Certamente com whitelist, sim
+[   3804516] Vyper: vai ser RP?
+[   3814125] Catsui: Vai ser full RP o principal
+[   3825016] InglesoSanches ©: Ja anota ai, 18 para o wh ;)
+[   3838672] almeidagamer82©: ja anota o meu tbm 19
+[   3839672] InglesoSanches ©: pf anota mesmo 
+[   3847781] Catsui: Sim sim, to com print da scoreboard
+[   3863125] InglesoSanches ©: na moral, melhor server
+[   3863438] Catsui: os que estão aqui estão anotados já
+[   3882688] Catsui: Vou rodar um secundário pra esse tipo de zueira liberada com mod aqui
+[   3886484] [ ACID ] Marcos Araújo: desde já muito obrigado
+[   3887000] Catsui: Mas o RP vai ser sério
+[   3891594] InglesoSanches ©: aposto que esse server vai ficar bonzao S2
+[   3892344] almeidagamer82©: vai ser o melhor server 
+[   3904656] Catsui: Agradeço aí a hype de todos
+[   3912750] Catsui: A gente tá com uma equipe grandinha já pra desenvolver
+[   3936266] Catsui: qualquer coisa nosso email é viladotacho@gmail.com
+[   3949719] Catsui: Vou sair aqui e deixar on pra fuçarem em qualquer coisa aí por enquanto
+[   3951422] Catsui: Abraço!
+[   3964578] almeidagamer82©: ok
+[   3972969] Vyper: se precisar de ajuda, só chamar Catsui
+[   3973781] almeidagamer82©: valeu mano
+[   3978922] Sending heartbeat to live-internal.fivem.net:30110
+[   3985281] Catsui: Beleza, boa noite!
+[   3990609] Connecting: snoowy1 [ ♥ ]
+[   3993578] almeidagamer82©: boa noite 
+[   3994375] Sending heartbeat to live-internal.fivem.net:30110
+[   3995734] Sending heartbeat to live-internal.fivem.net:30110
+[   4026906] Connecting: prw1
+[   4028281] Sending heartbeat to live-internal.fivem.net:30110
+[   4045688] MELLOTRAINER: Creating skins save file for snoowy1 [ ♥ ]
+[   4045688] MELLOTRAINER: Creating toggles save file for snoowy1 [ ♥ ]
+[   4045688] MELLOTRAINER: Creating vehicles save file for snoowy1 [ ♥ ]
+[   4096297] Connecting: ✪Donsta o obeso virgem
+[   4100359] Sending heartbeat to live-internal.fivem.net:30110
+[   4101359] Sending heartbeat to live-internal.fivem.net:30110
+[   4104609] Sending heartbeat to live-internal.fivem.net:30110
+[   4117563] Sending heartbeat to live-internal.fivem.net:30110
+[   4120172] Received a vouch for almeidagamer82©, they have 2 vouches and need 2.
+[   4120172] almeidagamer82© is the new arbitrator, with an overwhelming 2 vote/s.
+[   4120484] Got a late vouch for almeidagamer82© - they're the current arbitrator!
+[   4120516] Got a late vouch for almeidagamer82© - they're the current arbitrator!
+[   4122766] Sending heartbeat to live-internal.fivem.net:30110
+[   4157344] 18 steam:11000010a437bdd InglesoSanches © 177.136.150.149 25
+[   4157344] 19 steam:11000011617b59d almeidagamer82© 177.136.148.127 31
+[   4157344] 21 steam:110000111c668f3 prw1 201.40.89.235 63
+[   4157344] 14 steam:11000010af19059 Vyper 179.214.190.24 55
+[   4177094] prw1: OI
+[   4214453] Connecting: julio.ascariz
+[   4217547] Sending heartbeat to live-internal.fivem.net:30110
+[   4222172] 18 steam:11000010a437bdd InglesoSanches © 177.136.150.149 24
+[   4222172] 19 steam:11000011617b59d almeidagamer82© 177.136.148.127 31
+[   4222172] 21 steam:110000111c668f3 prw1 201.40.89.235 64
+[   4222172] 14 steam:11000010af19059 Vyper 179.214.190.24 57
+[   4274484] Connecting: Tacho
+[   4276063] Sending heartbeat to live-internal.fivem.net:30110
+[   4280766] 18 steam:11000010a437bdd InglesoSanches © 177.136.150.149 24
+[   4280781] 19 steam:11000011617b59d almeidagamer82© 177.136.148.127 30
+[   4280781] 21 steam:110000111c668f3 prw1 201.40.89.235 64
+[   4280781] 14 steam:11000010af19059 Vyper 179.214.190.24 60
+[   4284219] MELLOTRAINER: Creating skins save file for julio.ascariz
+[   4284219] MELLOTRAINER: Creating toggles save file for julio.ascariz
+[   4284219] MELLOTRAINER: Creating vehicles save file for julio.ascariz
+[   4287109] InglesoSanches ©: Iae gente 
+[   4294563] InglesoSanches ©: Server da hora 
+[   4306375] Sending heartbeat to live-internal.fivem.net:30110
+[   4373703] Connecting: prw1
+[   4374641] Sending heartbeat to live-internal.fivem.net:30110
+[   4378797] julio.ascariz: eai cara
+[   4386906] Tacho: Fala ai povo
+[   4389250] InglesoSanches ©: server da hora ne 

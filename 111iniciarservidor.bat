@@ -1,0 +1,1 @@
+start D:\Vila_do_Tacho\run.cmd +exec server.cfg
