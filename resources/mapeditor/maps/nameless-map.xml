@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Map version="5me-v1">
+  <Name>Nameless Map</Name>
+  <Creator>** Invalid **</Creator>
+  <Description />
+  <Peds />
+  <Vehicles>
+    <Vehicle>
+      <Hash>837858166</Hash>
+      <Pos>
+        <X>-662.9634</X>
+        <Y>4120.565</Y>
+        <Z>158.6118</Z>
+      </Pos>
+      <Rot>
+        <X>6.65858</X>
+        <Y>-0.6042477</Y>
+        <Z>1.107699</Z>
+      </Rot>
+    </Vehicle>
+  </Vehicles>
+  <Props />
+</Map>
